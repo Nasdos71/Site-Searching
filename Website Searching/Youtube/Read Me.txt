@@ -1,0 +1,7 @@
+You have to press "accept all" when the site start, if there was any error then it was likely:
+- Your internet is shit
+- You didnt press the Accept all
+
+
+
+THIS script searches yt for you and returns the number of desired videos title, link and thumbnail.
